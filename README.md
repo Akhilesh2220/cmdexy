@@ -15,7 +15,6 @@
 - 📝 **Code Auto-Fixing** - Patches your files automatically
 - 💻 **Shell Command Wrapper** - Monitor any command with AI assistance
 - 🍎 **OS-Aware** - Generates platform-specific commands (macOS, Linux, Windows)
-- 🔐 **Secure Config** - API keys stored safely in `~/.cmdexy/`
 
 ---
 
